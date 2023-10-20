@@ -1,0 +1,31 @@
+body {
+    background-image: url('C2.jpg'); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+    text-align: center;
+    font-family: Arial, sans-serif;
+    color: white;
+}
+
+.centered-container {
+    background: rgba(10, 2, 48, 0.7); 
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 600px;
+    width: 90%;
+}
+
+h1 {
+    font-size: 36px;
+    margin: 0; 
+}
+
+p {
+    font-size: 24px;
+}
